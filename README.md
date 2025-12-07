@@ -13,5 +13,6 @@ This repo features a collection of scripts and examples for easily managing birt
 2) Update Spreadsheet with the names and birthdays of your friends and family 
 3) Click Extensions --> App Script
 4) Paste the contents of the app.gs file
-5) From the dropdown in the toolbar, select `mainUpdate`
-6) Click `Run`
+5) Replace the contents of the `SPREADSHEET_ID` variable with the hash found in the url of your cloned spreadsheet!
+6) From the dropdown in the toolbar, select `mainUpdate`
+7) Click `Run`
